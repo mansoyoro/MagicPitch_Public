@@ -1,4 +1,4 @@
-> **Note:** The source code of this project is kept private. If you are a recruiter or a developer interested in reviewing it, feel free to contact me through my website: [mcampano.dev](https://mcampano.dev).
+> **Note:** The source code of this project is kept private. If you are a recruiter or a developer interested in reviewing it, feel free to contact me through my website [mcampano.dev](https://mcampano.dev) or my [LinkedIn](https://es.linkedin.com/in/manuel-campano2).
 
 # MagicPitch App
 
