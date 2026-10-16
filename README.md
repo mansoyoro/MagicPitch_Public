@@ -1,4 +1,4 @@
-> **Note:** The source code of this project is kept private. If you are a recruiter or a developer interested in reviewing it, feel free to contact me by direct message or email.
+> **Note:** The source code of this project is kept private. If you are a recruiter or a developer interested in reviewing it, feel free to contact me through my website: [mcampano.dev](https://mcampano.dev).
 
 # MagicPitch App
 
@@ -67,17 +67,6 @@ Configuration interface for visualization customization:
 - **Kotlin**: 1.8+
 - **Dependencies**: TarsosDSP library for audio processing
 
-## Installation
-
-1. Clone the repository:
-```bash
-git clone https://github.com/mansoyoro/canvakeys-app.git
-```
-
-2. Open project in Android Studio
-3. Sync Gradle dependencies
-4. Build and run on device (microphone permissions required)
-
 ## Dependencies
 
 Add to `build.gradle`:
@@ -103,7 +92,7 @@ Play this file near your device microphone to test the app functionality.
 
 ## License
 
-MIT License - see LICENSE file for details
+All rights reserved.
 
 ## Project Notes
 
